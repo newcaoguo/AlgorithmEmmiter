@@ -6,3 +6,5 @@
 - [x] [Leetcode Hard](https://leetcode.com/problemset/all/?difficulty=Hard)
 
 ### 2. 剑指 Offer
+
+[Stared repository](https://github.com/gatieme/CodingInterviews)
