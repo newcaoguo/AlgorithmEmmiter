@@ -17,4 +17,4 @@
 > * 2. [简单选择排序](https://github.com/newcaoguo/AlgorithmEmmiter/blob/master/SimpleSelectSortExample.java)
 > * 3. [快速排序](https://github.com/newcaoguo/AlgorithmEmmiter/blob/master/QuickSortExample.java)
 > * 4. [归并排序](https://github.com/newcaoguo/AlgorithmEmmiter/blob/master/MergeSortExample.java)
-> * 5. [堆排序](https://github.com/newcaoguo/AlgorithmEmmiter/blob/master/MergeSortExample.java)
+> * 5. [堆排序](https://github.com/newcaoguo/AlgorithmEmmiter/blob/master/HeapSortExample.java)
