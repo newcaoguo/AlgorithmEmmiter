@@ -2,7 +2,7 @@
 
 ### 1. leetcode
 - [X] [Leetcode Easy](https://leetcode.com/problemset/all/?difficulty=Easy)
-- [ ] [Leetcode Medium](https://leetcode.com/problemset/all/?difficulty=Medium)
+- [X] [Leetcode Medium](https://leetcode.com/problemset/all/?difficulty=Medium)
 - [ ] [Leetcode Hard](https://leetcode.com/problemset/all/?difficulty=Hard)
 
 ### 2. 剑指 Offer
