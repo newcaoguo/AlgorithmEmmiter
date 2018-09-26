@@ -9,6 +9,14 @@
 
 [Stared repository](https://github.com/gatieme/CodingInterviews)
 
+#### 二位数组的查找
+>* 时间限制：1秒空间限制：32768K
+
+> 在一个二维数组中（每个一维数组的长度相同），每一行都按照从左到右递增的顺序排序，每一列都按照从上到下递增的顺序排序。请完成一个函数，输入这样的一个二维数组和一个整数，判断数组中是否含有该整数。
+
+[题目解析](https://github.com/newcaoguo/AlgorithmEmmiter/blob/master/TwoDemensionSearch.java)
+
+
 ### Example
 
 #### 经典排序算法示例
