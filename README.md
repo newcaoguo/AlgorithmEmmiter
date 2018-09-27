@@ -28,14 +28,14 @@
 [牛客网传送门](https://www.nowcoder.com/practice/4060ac7e3e404ad1a894ef3e17650423?tpId=13&tqId=11155&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)
 
 
-### 3. 从尾到头打印链表 (TODO)
+### 3. 从尾到头打印链表
 >* 时间限制：1秒 空间限制：32768K
 
 > 输入一个链表，按链表值从尾到头的顺序返回一个ArrayList。
 
-[题目解析](https://github.com/newcaoguo/AlgorithmEmmiter/blob/master/TwoDemensionSearch.java)
+[题目解析](https://github.com/newcaoguo/AlgorithmEmmiter/blob/master/ReverseLinkedListToArrayList.java)
 
-[牛客网传送门](https://github.com/newcaoguo/AlgorithmEmmiter/blob/master/SwapWhiteSpace.java)
+[牛客网传送门](https://www.nowcoder.com/practice/d0267f7f55b3412ba93bd35cfa8e8035?tpId=13&tqId=11156&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)
 
 #### 经典排序算法示例
 
