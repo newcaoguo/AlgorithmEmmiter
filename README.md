@@ -1,11 +1,6 @@
 ## 每日刷题系列
 
-## 一. leetcode
-- [X] [Leetcode Easy](https://leetcode.com/problemset/all/?difficulty=Easy)
-- [X] [Leetcode Medium](https://leetcode.com/problemset/all/?difficulty=Medium)
-- [ ] [Leetcode Hard](https://leetcode.com/problemset/all/?difficulty=Hard)
-
-## 二. 剑指 Offer
+## 一. 剑指 Offer
 
 [Stared repository](https://github.com/gatieme/CodingInterviews)
 
@@ -45,6 +40,11 @@
 [题目解析](https://github.com/newcaoguo/AlgorithmEmmiter/blob/master/ReverseLinkedListToArrayList.java)
 
 [牛客网传送门](https://www.nowcoder.com/practice/8a19cbe657394eeaac2f6ea9b0f6fcf6?tpId=13&tqId=11157&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)
+
+## 二. leetcode
+- [X] [Leetcode Easy](https://leetcode.com/problemset/all/?difficulty=Easy)
+- [X] [Leetcode Medium](https://leetcode.com/problemset/all/?difficulty=Medium)
+- [ ] [Leetcode Hard](https://leetcode.com/problemset/all/?difficulty=Hard)
 
 #### 经典排序算法示例
 
