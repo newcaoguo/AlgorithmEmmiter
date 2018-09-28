@@ -44,7 +44,7 @@
 
 [题目解析](https://github.com/newcaoguo/AlgorithmEmmiter/blob/master/ReverseLinkedListToArrayList.java)
 
-[牛客网传送门](https://www.nowcoder.com/practice/d0267f7f55b3412ba93bd35cfa8e8035?tpId=13&tqId=11156&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)
+[牛客网传送门](https://www.nowcoder.com/practice/8a19cbe657394eeaac2f6ea9b0f6fcf6?tpId=13&tqId=11157&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)
 
 #### 经典排序算法示例
 
