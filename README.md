@@ -46,6 +46,22 @@
 - [X] [Leetcode Medium](https://leetcode.com/problemset/all/?difficulty=Medium)
 - [ ] [Leetcode Hard](https://leetcode.com/problemset/all/?difficulty=Hard)
 
+#### 腾讯面试的两道真题
+
+##### 1. 字符串翻块
+>* 时间限制：1秒 空间限制：32768K
+
+>  假设给定一个由字母和小数点组成的字符串，把字符串按块翻转，其中连续的小数点为一块，连续的字母为一块。例如 'ab..bc...cd.' 翻转后为 '.cd...bc..ab'。
+[题目解析](https://github.com/newcaoguo/AlgorithmEmmiter/blob/master/TencentQuestion1.java)
+
+##### 2. 连续块个数
+>* 时间限制：1秒 空间限制：32768K
+
+> 对于一个只有 0 和 1 的二维矩阵，上下或者左右相邻元素都为 1 则为一块，求一共有多少取值为1的连续块。
+
+[题目解析](https://github.com/newcaoguo/AlgorithmEmmiter/blob/master/TencentQuestion2.java)
+
+
 #### 经典排序算法示例
 
 > * 1. [直接插入排序](https://github.com/newcaoguo/AlgorithmEmmiter/blob/master/InsertSortExample.java)
