@@ -2,7 +2,7 @@
 
 ## 一. 剑指 Offer
 
-### [Stared repository](https://github.com/gatieme/CodingInterviews)
+### [Stared Repository](https://github.com/gatieme/CodingInterviews)
 
 ### 1. 二位数组的查找
 >* 时间限制：1秒空间限制：32768K
