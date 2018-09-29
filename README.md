@@ -41,6 +41,15 @@
 
 [牛客网传送门](https://www.nowcoder.com/practice/8a19cbe657394eeaac2f6ea9b0f6fcf6?tpId=13&tqId=11157&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)
 
+### 5. 用两个栈实现队列
+>* 时间限制：1秒 空间限制：32768K
+
+> 用两个栈来实现一个队列，完成队列的Push和Pop操作。 队列中的元素为int类型。
+
+[题目解析](https://github.com/newcaoguo/AlgorithmEmmiter/blob/master/ReConstructBinaryTree.java)
+
+[牛客网传送门](https://www.nowcoder.com/practice/54275ddae22f475981afa2244dd448c6?tpId=13&tqId=11158&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)
+
 ## 二. leetcode
 - [X] [Leetcode Easy](https://leetcode.com/problemset/all/?difficulty=Easy)
 - [X] [Leetcode Medium](https://leetcode.com/problemset/all/?difficulty=Medium)
