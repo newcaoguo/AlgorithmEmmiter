@@ -11,6 +11,10 @@ public class MinNumberInRotateArray {
      * 该数组的最小值为1。
      * NOTE：给出的所有元素都大于0，若数组大小为0，请返回0。
      */
+    
+    // 最笨的一种：遍历整个数组，找出其中最小的数。这样肯定拿不到offer
+    
+    // Second Method 
     public int minNumberInRotateArray(int[] array) {
         if (array.length == 0) return 0;
 
@@ -20,6 +24,29 @@ public class MinNumberInRotateArray {
             }
         }
         return array[0];
+    }
+    
+    // Third Method 
+    public static int minNumberInRotateArray(int[] array) {
+        if (array.length == 0)
+            return 0;
+        int left = 0;
+        int right = array.length - 1;
+        int middle = -1;
+        while (array[left] >= array[right]) {
+            if (right - left == 1) {
+                middle = right;
+                break;
+            }
+            middle = left + (right - left) / 2;
+            if (array[middle] >= array[left]) {
+                left = middle;
+            }
+            if (array[middle] <= array[right]) {
+                right = middle;
+            }
+        }
+        return array[middle];
     }
 
     @Test
