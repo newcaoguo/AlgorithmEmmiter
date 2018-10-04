@@ -105,6 +105,15 @@ n<=39
 
 [牛客网传送门](https://www.nowcoder.com/practice/8ee967e43c2c4ec193b040ea7fbb10b8?tpId=13&tqId=11164&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)
 
+### 12. 数值的整数次方
+>* 时间限制：1秒 空间限制：32768K
+
+> 给定一个double类型的浮点数base和int类型的整数exponent。求base的exponent次方。
+
+[题目解析](https://github.com/newcaoguo/AlgorithmEmmiter/blob/master/NumberOf1.java)
+
+[牛客网传送门](https://www.nowcoder.com/practice/1a834e5e3e1a4b7ba251417554e07c00?tpId=13&tqId=11165&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)
+
 ## 二. leetcode
 - [X] [Leetcode Easy](https://leetcode.com/problemset/all/?difficulty=Easy)
 - [X] [Leetcode Medium](https://leetcode.com/problemset/all/?difficulty=Medium)
