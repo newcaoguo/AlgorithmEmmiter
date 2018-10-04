@@ -110,7 +110,7 @@ n<=39
 
 > 给定一个double类型的浮点数base和int类型的整数exponent。求base的exponent次方。
 
-[题目解析](https://github.com/newcaoguo/AlgorithmEmmiter/blob/master/NumberOf1.java)
+[题目解析](https://github.com/newcaoguo/AlgorithmEmmiter/blob/master/Power.java)
 
 [牛客网传送门](https://www.nowcoder.com/practice/1a834e5e3e1a4b7ba251417554e07c00?tpId=13&tqId=11165&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)
 
