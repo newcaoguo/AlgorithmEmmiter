@@ -123,6 +123,15 @@ n<=39
 
 [牛客网传送门](https://www.nowcoder.com/practice/beb5aa231adc45b2a5dcc5b62c93f593?tpId=13&tqId=11166&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)
 
+### 14. 链表中倒数第k个结点
+>* 时间限制：1秒 空间限制：32768K
+
+> 输入一个链表，输出该链表中倒数第k个结点。
+
+[题目解析](https://github.com/newcaoguo/AlgorithmEmmiter/blob/master/ReOrderArray.java)
+
+[牛客网传送门](https://www.nowcoder.com/practice/529d3ae5a407492994ad2a246518148a?tpId=13&tqId=11167&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)
+
 ## 二. leetcode
 - [X] [Leetcode Easy](https://leetcode.com/problemset/all/?difficulty=Easy)
 - [X] [Leetcode Medium](https://leetcode.com/problemset/all/?difficulty=Medium)
