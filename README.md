@@ -128,7 +128,7 @@ n<=39
 
 > 输入一个链表，输出该链表中倒数第k个结点。
 
-[题目解析](https://github.com/newcaoguo/AlgorithmEmmiter/blob/master/ReOrderArray.java)
+[题目解析](https://github.com/newcaoguo/AlgorithmEmmiter/blob/master/FindKthToTail.java)
 
 [牛客网传送门](https://www.nowcoder.com/practice/529d3ae5a407492994ad2a246518148a?tpId=13&tqId=11167&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)
 
