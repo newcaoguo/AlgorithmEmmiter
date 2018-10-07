@@ -132,6 +132,24 @@ n<=39
 
 [牛客网传送门](https://www.nowcoder.com/practice/529d3ae5a407492994ad2a246518148a?tpId=13&tqId=11167&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)
 
+### 15. 反转链表
+>* 时间限制：1秒 空间限制：32768K
+
+> 输入一个链表，反转链表后，输出新链表的表头。
+
+[题目解析](https://github.com/newcaoguo/AlgorithmEmmiter/blob/master/FindKthToTail.java)
+
+[牛客网传送门](https://www.nowcoder.com/practice/75e878df47f24fdc9dc3e400ec6058ca?tpId=13&tqId=11168&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)
+
+>* 时间限制：1秒 空间限制：32768K
+
+> 输入一个链表，输出该链表中倒数第k个结点。
+
+[题目解析](https://github.com/newcaoguo/AlgorithmEmmiter/blob/master/FindKthToTail.java)
+
+[牛客网传送门](https://www.nowcoder.com/practice/529d3ae5a407492994ad2a246518148a?tpId=13&tqId=11167&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)
+
+
 ## 二. leetcode
 - [X] [Leetcode Easy](https://leetcode.com/problemset/all/?difficulty=Easy)
 - [X] [Leetcode Medium](https://leetcode.com/problemset/all/?difficulty=Medium)
