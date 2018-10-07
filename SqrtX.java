@@ -19,6 +19,29 @@ public class SqrtX {
         }
         return (int) high;
     }
+    
+    // 二分法
+    public double sqrt(int n) {
+        double max = n;
+        double min = 0;
+        double p = 1e-5; //此处为精度，当满足该精度时，返回该近似值
+        double x = (max + min) / 2;
+        while (Math.abs((x * x) - n) > p) {
+            if (x * x < n) min = x;
+            else if (x * x > n) max = x;
+            x = (max + min) / 2;
+        }
+        return x;
+    }
+    // 牛顿迭代法
+    public double sqrt(int n) {
+        double x = 1.0;//设置初值
+        double p = 1e-5;//设置精度
+        while ((Math.abs(x * x - n)) > p) {
+            x = (x + n / x) / 2.0;
+        }
+        return x;
+    }
 
     public static void main(String[] args) {
 
