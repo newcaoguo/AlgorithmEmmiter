@@ -18,13 +18,14 @@ public class HouseRobber {
         cache.put(index, c);
         return c;
     }
-
+    // 1. 递归方式
     public int rob(int[] nums) {
         cache.clear();
         if (nums.length == 0) return 0;
         return robot(0, nums);
     }
     
+    // 2. 递推方式
     public int rob(int[] nums){
         if (nums.length == 0) return 0;
         if (nums.length == 1) return nums[0];
