@@ -141,6 +141,15 @@ n<=39
 
 [牛客网传送门](https://www.nowcoder.com/practice/75e878df47f24fdc9dc3e400ec6058ca?tpId=13&tqId=11168&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)
 
+### 16. 合并两个排序的链表
+>* 时间限制：1秒 空间限制：32768K
+
+> 输入两个单调递增的链表，输出两个链表合成后的链表，当然我们需要合成后的链表满足单调不减规则。
+
+[题目解析](https://github.com/newcaoguo/AlgorithmEmmiter/blob/master/MergeSortedList.java)
+
+[牛客网传送门](https://www.nowcoder.com/practice/d8b6b4358f774294a89de2a6ac4d9337?tpId=13&tqId=11169&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)
+
 
 ## 二. leetcode
 - [X] [Leetcode Easy](https://leetcode.com/problemset/all/?difficulty=Easy)
