@@ -224,3 +224,6 @@ n<=39
 > * 3. [快速排序](https://github.com/newcaoguo/AlgorithmEmmiter/blob/master/QuickSortExample.java)
 > * 4. [归并排序](https://github.com/newcaoguo/AlgorithmEmmiter/blob/master/MergeSortExample.java)
 > * 5. [堆排序](https://github.com/newcaoguo/AlgorithmEmmiter/blob/master/HeapSortExample.java)
+
+#### 三种背包问题
+> * [背包问题](https://github.com/newcaoguo/AlgorithmEmmiter/blob/master/PackageExample.java)
