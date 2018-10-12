@@ -204,6 +204,15 @@ n<=39
 
 [牛客网传送门](https://www.nowcoder.com/practice/d77d11405cc7470d82554cb392585106?tpId=13&tqId=11174&tPage=2&rp=2&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)
 
+### 23. 栈的压入、弹出序列
+>* 时间限制：1秒 空间限制：32768K
+
+> 从上往下打印出二叉树的每个节点，同层节点从左至右打印。
+
+[题目解析](https://github.com/newcaoguo/AlgorithmEmmiter/blob/master/IsPopOrder.java)
+
+[牛客网传送门](https://www.nowcoder.com/practice/7fe2212963db4790b57431d9ed259701?tpId=13&tqId=11175&tPage=2&rp=2&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)
+
 ## 二. leetcode
 - [X] [Leetcode Easy](https://leetcode.com/problemset/all/?difficulty=Easy)
 - [X] [Leetcode Medium](https://leetcode.com/problemset/all/?difficulty=Medium)
