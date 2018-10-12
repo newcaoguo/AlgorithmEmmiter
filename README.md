@@ -204,7 +204,7 @@ n<=39
 
 [牛客网传送门](https://www.nowcoder.com/practice/d77d11405cc7470d82554cb392585106?tpId=13&tqId=11174&tPage=2&rp=2&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)
 
-### 23. 栈的压入、弹出序列
+### 23. 从上往下打印二叉树
 >* 时间限制：1秒 空间限制：32768K
 
 > 从上往下打印出二叉树的每个节点，同层节点从左至右打印。
