@@ -209,7 +209,7 @@ n<=39
 
 > 从上往下打印出二叉树的每个节点，同层节点从左至右打印。
 
-[题目解析](https://github.com/newcaoguo/AlgorithmEmmiter/blob/master/IsPopOrder.java)
+[题目解析](https://github.com/newcaoguo/AlgorithmEmmiter/blob/master/PrintFromTopToBottom.java)
 
 [牛客网传送门](https://www.nowcoder.com/practice/7fe2212963db4790b57431d9ed259701?tpId=13&tqId=11175&tPage=2&rp=2&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)
 
