@@ -43,6 +43,7 @@ public class SortedArrayAbs {
         return count;
     }
 
+    //推文代码
     public int handle(int[] nums) {
         if (nums == null || nums.length == 0)
             return 0;
