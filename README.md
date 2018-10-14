@@ -213,6 +213,16 @@ n<=39
 
 [牛客网传送门](https://www.nowcoder.com/practice/7fe2212963db4790b57431d9ed259701?tpId=13&tqId=11175&tPage=2&rp=2&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)
 
+### 24. 二叉树的深度
+>* 时间限制：1秒 空间限制：32768K
+
+> 输入一棵二叉树，求该树的深度。从根结点到叶结点依次经过的结点（含根、叶结点）形成树的一条路径，最长路径的长度为树的深度。
+
+[题目解析](https://github.com/newcaoguo/AlgorithmEmmiter/blob/master/TreeDepth.java)
+
+[牛客网传送门](https://www.nowcoder.com/practice/435fb86331474282a3499955f0a41e8b?tpId=13&tqId=11191&tPage=2&rp=2&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)
+
+
 ## 二. leetcode
 - [X] [Leetcode Easy](https://leetcode.com/problemset/all/?difficulty=Easy)
 - [X] [Leetcode Medium](https://leetcode.com/problemset/all/?difficulty=Medium)
