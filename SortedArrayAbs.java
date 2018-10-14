@@ -10,7 +10,9 @@ public class SortedArrayAbs {
      * @date 2018-10-14
      * 给出一个有序数组，可以是 正数 负数 和 零
      * 返回一个数，这个数是，这个数组所有数的平方值
-     *
+     * 问，这样的数，有几种
+     * 比如 -1 0 1 就是 2 种
+     * 1 2 3 就是  3 种
      * @return
      */
     public int fun1(int[] mData) {
