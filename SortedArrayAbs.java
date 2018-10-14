@@ -22,11 +22,9 @@ public class SortedArrayAbs {
         int end = mData.length - 1;
         int count = 0;
         while (start <= end) {
-            //去重
             while (start < end && mData[start] == mData[start + 1]) {
                 start++;
             }
-            //去重
             while (end >= 0 && mData[end] == mData[end - 1]) {
                 end--;
             }
@@ -45,19 +43,47 @@ public class SortedArrayAbs {
         return count;
     }
 
+    public int handle(int[] nums) {
+        if (nums == null || nums.length == 0)
+            return 0;
+        int res = 0;
+        int i = 0;
+        int j = nums.length - 1;
+        while (i <= j) {
+            int num1 = Math.abs(nums[i]);
+            int num2 = Math.abs(nums[j]);
+            if (num1 > num2) {
+                res += 1;
+                while (i <= j && Math.abs(nums[i]) == num1)
+                    i++;
+            } else if (num1 < num2) {
+                res += 1;
+                while (i <= j && Math.abs(nums[j]) == num2)
+                    j--;
+            } else {
+                res += 1;
+                while (i <= j && Math.abs(nums[i]) == num1)
+                    i++;
+                while (i <= j && Math.abs(nums[j]) == num2)
+                    j--;
+            }
+        }
+        return res;
+    }
 
     @Test
     public void test() {
-        System.out.println(fun2(new int[]{-1,1,1,1}));
 
-        System.out.println(fun2(new int[]{-1,0,1,2,3}));
-        System.out.println(fun2(new int[]{-2, -1, 0, 1, 1, 1}));
-        System.out.println(fun2(new int[]{-1, 0, 1, 1}));
-        System.out.println(fun2(new int[]{-1, 0}));
-        System.out.println(fun2(new int[]{-1, 0, 1}));
-        System.out.println(fun2(new int[]{-1, 0, 1, 2}));
-        System.out.println(fun2(new int[]{-2, -1, 0, 1}));
-        System.out.println(fun2(new int[]{-21, -1, 0, 1, 20}));
-        System.out.println(fun2(new int[]{-2, -1, 0, 1, 2, 3}));
+        System.out.println(fun2(new int[]{-1, 1, 1, 1}));//1
+
+        System.out.println(fun2(new int[]{-1, 0, 1, 2, 3}));//4
+        System.out.println(fun2(new int[]{-2, -1, 0, 1, 1, 1}));//3
+        System.out.println(fun2(new int[]{-1, 0, 1, 1}));//2
+        System.out.println(fun2(new int[]{-1, 0}));//2
+        System.out.println(fun2(new int[]{-1, 0, 1}));//2
+        System.out.println(fun2(new int[]{-1, 0, 1, 2}));//3
+        System.out.println(fun2(new int[]{-2, -1, 0, 1})); //3
+        System.out.println(fun2(new int[]{-21, -1, 0, 1, 20}));//4
+        System.out.println(fun2(new int[]{-2, -1, 0, 1, 2, 3}));//4
     }
 }
