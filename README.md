@@ -228,7 +228,8 @@ n<=39
 - [X] [Leetcode Medium](https://leetcode.com/problemset/all/?difficulty=Medium)
 - [ ] [Leetcode Hard](https://leetcode.com/problemset/all/?difficulty=Hard)
 
-#### 腾讯面试的两道真题
+ 
+#### 面试真题
 
 ##### 1. 字符串翻块
 >* 时间限制：1秒 空间限制：32768K
@@ -244,6 +245,21 @@ n<=39
 
 [题目解析](https://github.com/newcaoguo/AlgorithmEmmiter/blob/master/TencentQuestion2.java)
 
+##### 3. 有序数组中的平方个数
+
+>* 时间限制：1秒 空间限制：32768K
+
+> 给出一个有序数组，可以包含负数、正数和零，问，这些数中的平方数不相等的有几种
+
+Example1: 
+input: [-1, -1, 1, 1]
+output: [1]
+
+Example2: 
+input: [1, 1, 1, 2]
+output: [2]
+
+[题目解析](https://github.com/newcaoguo/AlgorithmEmmiter/blob/master/SortedArrayAbs.java)
 
 #### 经典排序算法示例
 
