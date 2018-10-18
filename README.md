@@ -249,6 +249,15 @@ n<=39
 
 [牛客网传送门](https://www.nowcoder.com/practice/f836b2c43afc4b35ad6adc41ec941dba?tpId=13&tqId=11178&tPage=2&rp=2&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)
 
+### 28. 二叉搜索树与双向链表
+>* 时间限制：1秒 空间限制：32768K
+
+> 输入一棵二叉搜索树，将该二叉搜索树转换成一个排序的双向链表。要求不能创建任何新的结点，只能调整树中结点指针的指向。
+
+[题目解析](https://github.com/newcaoguo/AlgorithmEmmiter/blob/master/Convert.java)
+
+[牛客网传送门](https://www.nowcoder.com/practice/947f6eb80d944a84850b0538bf0ec3a5?tpId=13&tqId=11179&tPage=2&rp=2&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)
+
 ## 二. leetcode
 - [X] [Leetcode Easy](https://leetcode.com/problemset/all/?difficulty=Easy)
 - [X] [Leetcode Medium](https://leetcode.com/problemset/all/?difficulty=Medium)
