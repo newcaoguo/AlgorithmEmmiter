@@ -258,6 +258,15 @@ n<=39
 
 [牛客网传送门](https://www.nowcoder.com/practice/947f6eb80d944a84850b0538bf0ec3a5?tpId=13&tqId=11179&tPage=2&rp=2&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)
 
+### 29. 字符串的排列
+>* 时间限制：1秒 空间限制：32768K
+
+> 输入一个字符串,按字典序打印出该字符串中字符的所有排列。例如输入字符串abc,则打印出由字符a,b,c所能排列出来的所有字符串abc,acb,bac,bca,cab和cba。
+
+[题目解析](https://github.com/newcaoguo/AlgorithmEmmiter/blob/master/Permutation.java)
+
+[牛客网传送门](https://www.nowcoder.com/practice/fe6b651b66ae47d7acce78ffdd9a96c7?tpId=13&tqId=11180&tPage=2&rp=2&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)
+
 ## 二. leetcode
 - [X] [Leetcode Easy](https://leetcode.com/problemset/all/?difficulty=Easy)
 - [X] [Leetcode Medium](https://leetcode.com/problemset/all/?difficulty=Medium)
