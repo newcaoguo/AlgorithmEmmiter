@@ -324,7 +324,7 @@ output: [2]
 [题目解析](https://github.com/newcaoguo/AlgorithmEmmiter/blob/master/SortedArrayAbs.java)
 
 
-##### 3. 求二叉树中的最小深度。(百度一面面试题)
+##### 4. 求二叉树中的最小深度。(百度一面面试题)
 >* 时间限制：1秒 空间限制：32768K
 
 > 深度是按照一层一层来进行计数的，根结点A的深度就是1，再往下一层（B，C所在的层）的话深度就是2。
