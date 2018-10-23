@@ -301,12 +301,6 @@ n<=39
 
 [牛客网传送门](https://www.nowcoder.com/practice/8fecd3f8ba334add803bf2a06af1b993?tpId=13&tqId=11185&tPage=2&rp=2&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)
 
-## 二. leetcode
-- [X] [Leetcode Easy](https://leetcode.com/problemset/all/?difficulty=Easy)
-- [X] [Leetcode Medium](https://leetcode.com/problemset/all/?difficulty=Medium)
-- [ ] [Leetcode Hard](https://leetcode.com/problemset/all/?difficulty=Hard)
-
- 
 #### 面试真题
 
 ##### 1. 字符串翻块
@@ -364,3 +358,8 @@ output: [2]
 > * [全排列](https://github.com/newcaoguo/AlgorithmEmmiter/blob/master/Permutation.java)
 
 > * [全组合](https://github.com/newcaoguo/AlgorithmEmmiter/blob/master/Combination.java)
+
+## 二. leetcode
+- [X] [Leetcode Easy](https://leetcode.com/problemset/all/?difficulty=Easy)
+- [X] [Leetcode Medium](https://leetcode.com/problemset/all/?difficulty=Medium)
+- [ ] [Leetcode Hard](https://leetcode.com/problemset/all/?difficulty=Hard)
