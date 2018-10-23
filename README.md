@@ -2,8 +2,6 @@
 
 ## 一. 剑指 Offer
 
-### [Stared Repository](https://github.com/gatieme/CodingInterviews)
-
 ### 1. 二位数组的查找
 >* 时间限制：1秒空间限制：32768K
 
@@ -360,3 +358,9 @@ output: [2]
 
 #### 三种背包问题
 > * [背包问题](https://github.com/newcaoguo/AlgorithmEmmiter/blob/master/PackageExample.java)
+
+#### 全排列和全组合问题
+
+> * [全排列](https://github.com/newcaoguo/AlgorithmEmmiter/blob/master/Permutation.java)
+
+> * [全组合](https://github.com/newcaoguo/AlgorithmEmmiter/blob/master/Combination.java)
