@@ -310,6 +310,15 @@ n<=39
 
 [牛客网传送门](https://www.nowcoder.com/practice/6aa9e04fc3794f68acf8778237ba065b?tpId=13&tqId=11186&tPage=2&rp=2&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)
 
+### 35. 第一个只出现一次的字符
+>* 时间限制：1秒 空间限制：32768K
+
+> 在一个字符串(0<=字符串长度<=10000，全部由字母组成)中找到第一个只出现一次的字符,并返回它的位置, 如果没有则返回 -1（需要区分大小写）.
+
+[题目解析](https://github.com/newcaoguo/AlgorithmEmmiter/blob/master/FirstNotRepeatingChar.java)
+
+[牛客网传送门](https://www.nowcoder.com/practice/1c82e8cf713b4bbeb2a5b31cf5b0417c?tpId=13&tqId=11187&tPage=2&rp=2&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)
+
 #### 面试真题
 
 ##### 1. 字符串翻块
