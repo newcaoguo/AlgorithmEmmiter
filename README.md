@@ -319,6 +319,15 @@ n<=39
 
 [牛客网传送门](https://www.nowcoder.com/practice/1c82e8cf713b4bbeb2a5b31cf5b0417c?tpId=13&tqId=11187&tPage=2&rp=2&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)
 
+### 36. 数组中的逆序对
+>* 时间限制：1秒 空间限制：32768K
+
+> 在数组中的两个数字，如果前面一个数字大于后面的数字，则这两个数字组成一个逆序对。输入一个数组,求出这个数组中的逆序对的总数P。并将P对1000000007取模的结果输出。 即输出P%1000000007
+
+[题目解析](https://github.com/newcaoguo/AlgorithmEmmiter/blob/master/InversePairs.java)
+
+[牛客网传送门](https://www.nowcoder.com/practice/96bd6684e04a44eb80e6a68efc0ec6c5?tpId=13&tqId=11188&tPage=2&rp=2&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)
+
 #### 面试真题
 
 ##### 1. 字符串翻块
