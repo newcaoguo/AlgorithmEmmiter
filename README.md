@@ -346,6 +346,15 @@ n<=39
 
 [牛客网传送门](https://www.nowcoder.com/practice/70610bf967994b22bb1c26f9ae901fa2?tpId=13&tqId=11190&tPage=2&rp=2&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)
 
+### 39. 平衡二叉树
+>* 时间限制：1秒 空间限制：32768K
+
+> 输入一棵二叉树，判断该二叉树是否是平衡二叉树。
+
+[题目解析](https://github.com/newcaoguo/AlgorithmEmmiter/blob/master/IsBalanced_Solution.java)
+
+[牛客网传送门](https://www.nowcoder.com/practice/8b3b95850edb4115918ecebdf1b4d222?tpId=13&tqId=11192&tPage=2&rp=2&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)
+
 #### 面试真题
 
 ##### 1. 字符串翻块
