@@ -355,6 +355,15 @@ n<=39
 
 [牛客网传送门](https://www.nowcoder.com/practice/8b3b95850edb4115918ecebdf1b4d222?tpId=13&tqId=11192&tPage=2&rp=2&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)
 
+### 40. 数组中只出现一次的数字
+>* 时间限制：1秒 空间限制：32768K
+
+> 一个整型数组里除了两个数字之外，其他的数字都出现了偶数次。请写程序找出这两个只出现一次的数字。
+
+[题目解析](https://github.com/newcaoguo/AlgorithmEmmiter/blob/master/FindNumsAppearOnce.java)
+
+[牛客网传送门](https://www.nowcoder.com/practice/e02fdb54d7524710a7d664d082bb7811?tpId=13&tqId=11193&tPage=2&rp=2&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)
+
 #### 面试真题
 
 ##### 1. 字符串翻块
