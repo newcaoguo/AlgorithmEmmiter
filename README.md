@@ -364,12 +364,22 @@ n<=39
 
 [牛客网传送门](https://www.nowcoder.com/practice/e02fdb54d7524710a7d664d082bb7811?tpId=13&tqId=11193&tPage=2&rp=2&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)
 
+### 41. 和为S的连续正数序列
+>* 时间限制：1秒 空间限制：32768K
+
+> 一个整型数组里除了两个数字之外，其他的数字都出现了偶数次。请写程序找出这两个只出现一次的数字。
+
+[题目解析](https://github.com/newcaoguo/AlgorithmEmmiter/blob/master/FindContinuousSequence.java)
+
+[牛客网传送门](https://www.nowcoder.com/practice/c451a3fd84b64cb19485dad758a55ebe?tpId=13&tqId=11194&tPage=3&rp=3&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)
+
+
 #### 面试真题
 
 ##### 1. 字符串翻块
 >* 时间限制：1秒 空间限制：32768K
 
->  假设给定一个由字母和小数点组成的字符串，把字符串按块翻转，其中连续的小数点为一块，连续的字母为一块。例如 'ab..bc...cd.' 翻转后为 '.cd...bc..ab'。
+>  输出所有和为S的连续正数序列。序列内按照从小至大的顺序，序列间按照开始数字从小到大的顺序
 
 [题目解析](https://github.com/newcaoguo/AlgorithmEmmiter/blob/master/TencentQuestion1.java)
 
