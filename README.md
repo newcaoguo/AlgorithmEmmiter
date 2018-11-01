@@ -367,12 +367,20 @@ n<=39
 ### 41. 和为S的连续正数序列
 >* 时间限制：1秒 空间限制：32768K
 
-> 一个整型数组里除了两个数字之外，其他的数字都出现了偶数次。请写程序找出这两个只出现一次的数字。
+> 输出所有和为S的连续正数序列。序列内按照从小至大的顺序，序列间按照开始数字从小到大的顺序
 
 [题目解析](https://github.com/newcaoguo/AlgorithmEmmiter/blob/master/FindContinuousSequence.java)
 
 [牛客网传送门](https://www.nowcoder.com/practice/c451a3fd84b64cb19485dad758a55ebe?tpId=13&tqId=11194&tPage=3&rp=3&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)
 
+### 42. 和为S的两个数字
+>* 时间限制：1秒 空间限制：32768K
+
+> 输入一个递增排序的数组和一个数字S，在数组中查找两个数，使得他们的和正好是S，如果有多对数字的和等于S，输出两个数的乘积最小的。
+
+[题目解析](https://github.com/newcaoguo/AlgorithmEmmiter/blob/master/FindNumbersWithSum.java)
+
+[牛客网传送门](https://www.nowcoder.com/practice/390da4f7a00f44bea7c2f3d19491311b?tpId=13&tqId=11195&tPage=3&rp=3&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking)
 
 #### 面试真题
 
