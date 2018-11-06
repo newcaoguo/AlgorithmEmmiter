@@ -418,6 +418,15 @@ n<=39
 
 [牛客网传送门](https://www.nowcoder.com/practice/f78a359491e64a50bce2d89cff857eb6?tpId=13&tqId=11199&tPage=3&rp=3&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)
 
+### 47. 求1+2+3+...+n
+>* 时间限制：1秒 空间限制：32768K
+
+> 求1+2+3+...+n，要求不能使用乘除法、for、while、if、else、switch、case等关键字及条件判断语句（A?B:C）。
+
+[题目解析](https://github.com/newcaoguo/AlgorithmEmmiter/blob/master/Sum_Solution.java)
+
+[牛客网传送门](https://www.nowcoder.com/practice/7a0da8fc483247ff8800059e12d7caf1?tpId=13&tqId=11200&tPage=3&rp=3&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)
+
 #### 面试真题
 
 ##### 1. 字符串翻块
