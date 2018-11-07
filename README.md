@@ -427,6 +427,16 @@ n<=39
 
 [牛客网传送门](https://www.nowcoder.com/practice/7a0da8fc483247ff8800059e12d7caf1?tpId=13&tqId=11200&tPage=3&rp=3&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)
 
+### 47. 不用加减乘除做加法
+>* 时间限制：1秒 空间限制：32768K
+
+> 写一个函数，求两个整数之和，要求在函数体内不得使用+、-、*、/四则运算符号。
+
+[题目解析](https://github.com/newcaoguo/AlgorithmEmmiter/blob/master/Add.java)
+
+[牛客网传送门](https://www.nowcoder.com/practice/59ac416b4b944300b617d4f7f111b215?tpId=13&tqId=11201&tPage=3&rp=3&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)
+
+
 #### 面试真题
 
 ##### 1. 字符串翻块
