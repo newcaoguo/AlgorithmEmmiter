@@ -454,6 +454,14 @@ n<=39
 
 [牛客网传送门](https://www.nowcoder.com/practice/623a5ac0ea5b4e5f95552655361ae0a8?tpId=13&tqId=11203&tPage=3&rp=3&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)
 
+### 50. 构建乘积数组
+>* 时间限制：1秒 空间限制：32768K
+
+> 给定一个数组A[0,1,...,n-1],请构建一个数组B[0,1,...,n-1],其中B中的元素B[i]=A[0]*A[1]*...*A[i-1]*A[i+1]*...*A[n-1]。不能使用除法。
+
+[题目解析](https://github.com/newcaoguo/AlgorithmEmmiter/blob/master/Multiply.java)
+
+[牛客网传送门](https://www.nowcoder.com/practice/94a4d381a68b47b7a8bed86f2975db46?tpId=13&tqId=11204&tPage=3&rp=3&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)
 
 #### 面试真题
 
