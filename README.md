@@ -472,6 +472,15 @@ n<=39
 
 [牛客网传送门](https://www.nowcoder.com/practice/45327ae22b7b413ea21df13ee7d6429c?tpId=13&tqId=11205&tPage=3&rp=3&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)
 
+### 52. 表示数值的字符串
+>* 时间限制：1秒 空间限制：32768K
+
+> 请实现一个函数用来判断字符串是否表示数值（包括整数和小数）。例如，字符串"+100","5e2","-123","3.1416"和"-1E-16"都表示数值。 但是"12e","1a3.14","1.2.3","+-5"和"12e+4.3"都不是。
+
+[题目解析](https://github.com/newcaoguo/AlgorithmEmmiter/blob/master/IsNumeric.java)
+
+[牛客网传送门](https://www.nowcoder.com/practice/6f8c901d091949a5837e24bb82a731f2?tpId=13&tqId=11206&tPage=3&rp=3&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)
+
 #### 面试真题
 
 ##### 1. 字符串翻块
