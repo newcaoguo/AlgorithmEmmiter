@@ -490,6 +490,15 @@ n<=39
 
 [牛客网传送门](https://www.nowcoder.com/practice/00de97733b8e4f97a3fb5c680ee10720?tpId=13&tqId=11207&tPage=3&rp=3&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)
 
+### 54. 链表中环的入口结点
+>* 时间限制：1秒 空间限制：32768K
+
+> 给一个链表，若其中包含环，请找出该链表的环的入口结点，否则，输出null。
+
+[题目解析](https://github.com/newcaoguo/AlgorithmEmmiter/blob/master/EntryNodeOfLoop.java)
+
+[牛客网传送门](https://www.nowcoder.com/practice/253d2c59ec3e4bc68da16833f79a38e4?tpId=13&tqId=11208&tPage=3&rp=3&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)
+
 #### 面试真题
 
 ##### 1. 字符串翻块
