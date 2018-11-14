@@ -547,7 +547,12 @@ output: [2]
 
 [题目解析](https://github.com/newcaoguo/AlgorithmEmmiter/blob/master/MatrixMaxValue.java)
 
+##### 6. 数字拆分
+>* 时间限制：1秒 空间限制：32768K
 
+> Given a positive integer n, break it into the sum of at least two positive integers and maximize the product of those integers. Return the maximum product you can get.
+
+[题目解析](https://github.com/newcaoguo/AlgorithmEmmiter/blob/master/IntegerBreak.java)
 
 #### 经典排序算法示例
 
