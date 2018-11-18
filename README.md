@@ -526,6 +526,16 @@ n<=39
 
 [牛客网传送门](https://www.nowcoder.com/practice/ff05d44dfdb04e1d83bdbdab320efbcb?tpId=13&tqId=11211&tPage=3&rp=3&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)
 
+
+### 58. 按之字形顺序打印二叉树
+>* 时间限制：1秒 空间限制：32768K
+
+> 请实现一个函数按照之字形打印二叉树，即第一行按照从左到右的顺序打印，第二层按照从右至左的顺序打印，第三行按照从左到右的顺序打印，其他行以此类推。
+
+[题目解析](https://github.com/newcaoguo/AlgorithmEmmiter/blob/master/Print.java)
+
+[牛客网传送门](https://www.nowcoder.com/practice/91b69814117f4e8097390d107d2efbe0?tpId=13&tqId=11212&tPage=3&rp=3&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking
+
 #### 面试真题
 
 ##### 1. 字符串翻块
