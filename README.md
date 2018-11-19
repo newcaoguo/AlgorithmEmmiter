@@ -534,7 +534,16 @@ n<=39
 
 [题目解析](https://github.com/newcaoguo/AlgorithmEmmiter/blob/master/Print.java)
 
-[牛客网传送门](https://www.nowcoder.com/practice/91b69814117f4e8097390d107d2efbe0?tpId=13&tqId=11212&tPage=3&rp=3&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking
+[牛客网传送门](https://www.nowcoder.com/practice/91b69814117f4e8097390d107d2efbe0?tpId=13&tqId=11212&tPage=3&rp=3&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)
+
+### 59. 把二叉树打印成多行
+>* 时间限制：1秒 空间限制：32768K
+
+> 从上到下按层打印二叉树，同一层结点从左至右输出。每一层输出一行。
+
+[题目解析](https://github.com/newcaoguo/AlgorithmEmmiter/blob/master/LevelPrint.java)
+
+[牛客网传送门](https://www.nowcoder.com/practice/445c44d982d04483b04a54f298796288?tpId=13&tqId=11213&tPage=3&rp=3&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking)
 
 #### 面试真题
 
