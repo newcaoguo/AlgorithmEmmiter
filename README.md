@@ -545,6 +545,15 @@ n<=39
 
 [牛客网传送门](https://www.nowcoder.com/practice/445c44d982d04483b04a54f298796288?tpId=13&tqId=11213&tPage=3&rp=3&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking)
 
+### 60. 序列化二叉树
+>* 时间限制：1秒 空间限制：32768K
+
+> 请实现两个函数，分别用来序列化和反序列化二叉树
+
+[题目解析](https://github.com/newcaoguo/AlgorithmEmmiter/blob/master/Serialize.java)
+
+[牛客网传送门](https://www.nowcoder.com/practice/cf7e25aa97c04cc1a68c8f040e71fb84?tpId=13&tqId=11214&tPage=4&rp=4&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)
+
 #### 面试真题
 
 ##### 1. 字符串翻块
