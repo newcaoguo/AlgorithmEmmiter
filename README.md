@@ -554,6 +554,15 @@ n<=39
 
 [牛客网传送门](https://www.nowcoder.com/practice/cf7e25aa97c04cc1a68c8f040e71fb84?tpId=13&tqId=11214&tPage=4&rp=4&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)
 
+### 61. 二叉搜索树的第k个结点
+>* 时间限制：1秒 空间限制：32768K
+
+> 给定一棵二叉搜索树，请找出其中的第k小的结点。例如， （5，3，7，2，4，6，8）    中，按结点数值大小顺序第三小结点的值为4。
+
+[题目解析](https://github.com/newcaoguo/AlgorithmEmmiter/blob/master/KthNode.java)
+
+[牛客网传送门](https://www.nowcoder.com/practice/ef068f602dde4d28aab2b210e859150a?tpId=13&tqId=11215&tPage=4&rp=4&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)
+
 #### 面试真题
 
 ##### 1. 字符串翻块
