@@ -676,3 +676,11 @@ output: [2]
 > * [全排列](https://github.com/newcaoguo/AlgorithmEmmiter/blob/master/Permutation.java)
 
 > * [全组合](https://github.com/newcaoguo/AlgorithmEmmiter/blob/master/Combination.java)
+
+#### 常见的回溯问题
+
+> * [Permutations](https://github.com/newcaoguo/AlgorithmEmmiter/blob/master/Permutations.java)
+> * [PermutationsII](https://github.com/newcaoguo/AlgorithmEmmiter/blob/master/PermutationsII.java)
+> * [PalindromePartitioning](https://github.com/newcaoguo/AlgorithmEmmiter/blob/master/PalindromePartitioning.java)
+> * [Subsets](https://github.com/newcaoguo/AlgorithmEmmiter/blob/master/Subsets.java)
+> * [SubsetsII](https://github.com/newcaoguo/AlgorithmEmmiter/blob/master/SubsetsII.java)
