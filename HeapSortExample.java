@@ -1,4 +1,12 @@
-public int[] topK(int[] mData, int k) {
+package com.company;
+
+import org.junit.Test;
+
+import java.util.Arrays;
+
+public class HeapSort {
+
+    public int[] topK(int[] mData, int k) {
         if (k > mData.length)
             throw new IllegalArgumentException("");
         int[] kData = new int[k];
@@ -68,3 +76,4 @@ public int[] topK(int[] mData, int k) {
         int[] topK = topK(data, 5);
         System.out.println(Arrays.toString(topK));
     }
+}
