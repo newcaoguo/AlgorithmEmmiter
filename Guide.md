@@ -2,7 +2,7 @@
 
 如下命令，切换目录
 
-`java
+`
   cd E:\deaProjects\turtle\src
 `
 
@@ -12,14 +12,14 @@
 
 ## 2. 执行 javac Stamps.java 命令，完成编译工作
 
-`java
+`
   javac Stamps.java
 `
 ![结果](https://github.com/newcaoguo/AlgorithmEmmiter/blob/master/2019-07-22_195425.png)
 
 ## 3. 执行 java Stamp 命令，完成执行操作
 
-`java
+`
   java Stamps
 `
 
